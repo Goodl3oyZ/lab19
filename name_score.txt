@@ -1,0 +1,26 @@
+Monkey D. Luffy: 12 25 40
+Roronoa Zoro: 10 20 45
+Nami: 19 15 15
+Usopp: 10 10 30
+Sanji: 11 27 42
+Tony Tony Chopper: 12 15 32
+Nico Robin: 20 11 30
+Franky: 9 10 12
+Brook: 20 28 45
+Dracule Mihawk: 20 28 45
+Donquixote Doflamingo: 19 25 48
+Jimbei: 2 10 15
+Koby: 5 12 23
+Kizaru: 7 7 21
+Smoker: 15 15 44
+Trafalgar Law: 15 20 43
+Akainu: 3 26 9
+Aokiji: 10 28 34
+Arlong: 8 16 28
+Bartholomew Kuma: 12 4 0
+Boa Hancock: 14 7 20
+Buggy: 15 25 9
+Caesar Clown: 5 10 47
+Monkey D. Garp: 6 25 18
+Portgas D. Ace: 13 21 36
+Gol D. Roger: 19 19 15
